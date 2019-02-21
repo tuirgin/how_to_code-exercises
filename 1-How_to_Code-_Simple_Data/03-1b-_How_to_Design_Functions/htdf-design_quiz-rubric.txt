@@ -1,0 +1,157 @@
+
+;; RUBRIC BASED EVALUATION
+;;
+;; 1. The file should be neat and tidy, no tests or code should be commented out
+;;    other than stubs and templates and all scratch work should be
+;;    removed.
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Poor: File is quite sloppy, multiple tests or other code are commented
+;;          out, and/or scratch work is left behind.
+;;
+;;    0 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Fair: One test or other code fragment is commented out, or one bit of
+;;          scratch work is left behind.
+;;
+;;    1 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Good: The file is neat and tidy. Except for stubs and templates, no tests
+;;          or other code is commented. All scratch work has been removed.
+;;
+;;    2 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;; SCORE:
+;;
+;; COMMENTS:
+;;
+;;
+;;
+;;
+;;
+;;==============================================================================
+;;
+;; 2. All HtDF design elements should be present, and each element should be
+;;    well formed. For this quiz, this includes signature, purpose,
+;;    check-expects, commented out stub, commented out template and function
+;;    definition.
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Poor: Two or more elements of the HtDF design elements are missing or
+;;          poorly formed.
+;;
+;;    0 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Fair: One HtDF design elements is missing or poorly formed.
+;;
+;;    3 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Good: All HtDF design elements are present and well-formed.
+;;
+;;    5 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;; SCORE:
+;;
+;; COMMENTS:
+;;
+;;
+;;
+;;
+;;
+;;==============================================================================
+;;
+;; 3. The signature should be correct, the purpose should be clear and succinct,
+;;    the examples should be sufficient to test and explain the function. The
+;;    function name should be well chosen and should describe what the function
+;;    does, not how it does it. The stub should match the signature. The
+;;    template should be correct. The function body should be clear. When the
+;;    program is run all the tests should pass, and those tests should cover the
+;;    entire program.
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Poor: Three or more of the stated criteria are not satisfied.
+;;
+;;    0 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Fair: Two of the stated criteria are not satisfied.
+;;
+;;    2 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Good: One of the stated criteria is not satisfied.
+;;
+;;    3 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Excellent: All the stated criteria are satisfied.
+;;
+;;    5 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;; SCORE:
+;;
+;; COMMENTS:
+;;
+;;
+;;
+;;
+;;
+;;==============================================================================
+;;
+;; 4. The function design should satisfy the problem statement. If there is any
+;;    ambiguity in the problem statement the function design should identify and
+;;    resolve that ambiguity.
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Poor: The design does not satisfy the problem statement.
+;;
+;;    0 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Fair: The design satisfies the problem statement, but is incomplete and/or
+;;          ambiguities in the problem statement are not resolved.
+;;
+;;    1 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Good: All ambiguities are resolved and the resulting design satisfies the
+;;          problem statement.
+;;
+;;    2 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;; SCORE:
+;;
+;; COMMENTS:
+;;
+;;
+;;
+;;
+;;
+;;==============================================================================
+;;
+;; REVIEWER NOTES
