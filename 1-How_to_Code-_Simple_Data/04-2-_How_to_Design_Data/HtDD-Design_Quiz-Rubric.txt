@@ -1,0 +1,180 @@
+;; RUBRIC BASED EVALUATION
+;;
+;; 1. The program file should be set to beginning student language and there
+;;    should be no require declarations.
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Unacceptable: There are require declarations, or the file is set to
+;;                  something other than Beginning Student Language.
+;;
+;;    0 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Acceptable: The file is set to BSL, and there are no require declarations.
+;;
+;;    1 point
+;;
+;;------------------------------------------------------------------------------
+;;
+;; SCORE:
+;;
+;; COMMENTS:
+;;
+;;
+;;==============================================================================
+;;
+;; 2. The file should be neat and tidy, no tests or code should be commented out
+;;    other than stubs and templates and all scratch work should be removed.
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Poor: File is quite sloppy, multiple tests or other code are commented
+;;          out, and/or scratch work is left behind.
+;;
+;;    0 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Fair: One test or other code fragment is commented out, or one bit of
+;;          scratch work is left behind.
+;;
+;;    1 point
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Good: The file is neat and tidy. Except for stubs and templates, no tests
+;;          or other code is commented. All scratch work has been removed.
+;;
+;;    2 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;; SCORE:
+;;
+;; COMMENTS:
+;;
+;;==============================================================================
+;;
+;; 3. All HtDF and HtDD design elements should be present, and each element
+;;    should be well formed.
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Poor: Two or more of the HtDF or HtDD design elements are missing or
+;;          poorly formed.
+;;
+;;    0 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Fair: One HtDF or HtDD design element is missing or poorly formed.
+;;
+;;    3 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Good: All HtDF and HtDD design elements are present and well-formed.
+;;
+;;    5 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;; SCORE:
+;;
+;; COMMENTS:
+;;
+;;==============================================================================
+;;
+;; 4.1 For data definitions, the type comments should be correct, and the
+;;     interpretations should be clear and complete.
+;;
+;; 4.2 The examples should cover all cases, and the template should be complete
+;;     with the correct template rules used.
+;;
+;; 4.3 For function designs, the signature should be correct, the purpose should
+;;     be clear and succinct, the examples should be sufficient to test and
+;;     explain the function. The function name should be well chosen and should
+;;     describe what the function does, not how it does it.
+;;
+;; 4.4 The stub should match the signature.
+;;
+;; 4.5 The template should be correct.
+;;
+;; 4.6 The function body should be clear.
+;;
+;; 4.7 When the program is run all the tests should pass, and those tests should
+;;     cover the entire program.
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Poor: Three or more of the stated criteria are not satisfied.
+;;
+;;    0 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Fair: Two of the stated criteria are not satisfied.
+;;
+;;    2 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Good: One of the stated criteria is not satisfied.
+;;
+;;    3 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Excellent: All of the stated criteria are satisfied.
+;;
+;;    5 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;; SCORE:
+;;
+;; COMMENTS:
+;;
+;;==============================================================================
+;;
+;; 5. The function and data designs should satisfy the problem statements. If
+;;    there is any ambiguity in the problem statements the function and data
+;;    design should identify and resolve those ambiguities.
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Poor: The design does not satisfy the problem statements.
+;;
+;;    0 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Fair: The design satisfies the problem statements, but is incomplete
+;;          and/or ambiguities in the problem statements are not resolved.
+;;
+;;    1 point
+;;
+;;------------------------------------------------------------------------------
+;;
+;;    Good: All ambiguities are resolved and the resulting design satisfies the
+;;          problem statements.
+;;
+;;    2 points
+;;
+;;------------------------------------------------------------------------------
+;;
+;; SCORE:
+;;
+;; COMMENTS:
+;;
+;;==============================================================================
+;;
+;; What aspects of this response stood out to you? What did it do well? How
+;; could it improve?
+;;
+;;------------------------------------------------------------------------------
+;;
+;; COMMENTS:
+;;
